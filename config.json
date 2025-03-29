@@ -1,6 +1,14 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"何飞|食品安全",
+    "subTitle":"民以食为天，食以安为先!",
+    "avatarUrl":"https://onecode-media.oss-cn-hangzhou.aliyuncs.com/avatar/bb024166a7d844e68a8b8c4cb0317110/2.png",
+    "GMEEK_VERSION":"last",
+    "startSite":"03/28/2025",
+    "i18n":"CN",
+    "singlePage":["about"],
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"
+
+
 }
